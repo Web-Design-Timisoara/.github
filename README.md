@@ -1,2 +1,2 @@
 # .github
-office@webdesigntimisoara.com
+https://webdesigntimisoara.com
